@@ -1,0 +1,75 @@
+.list-cont {
+  height: 20px;
+  width: 1104px;
+  padding: 10px 12px;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 4px;
+}
+
+.box {
+  height: 20px;
+  width: 151px;
+  font-family: "Inter";
+  color: #4d4d4d;
+  font-weight: 500;
+}
+
+.box-last {
+  text-align: end;
+}
+
+.item-cont {
+  height: 20px;
+  width: 1104px;
+  padding: 14px 12px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: #f2f2f2 solid 1px;
+}
+
+.orderId {
+  color: #146eb4;
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.status {
+  color: #1a181e;
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.transactionid {
+    color: #4d4d4d;
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.refunddate {
+    font-family: "lato";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+}
+
+.orderamt {
+    color: #1a181e;
+    font-family: "Inter";
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+}
+

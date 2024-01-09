@@ -1,0 +1,45 @@
+.navfoot {
+    left: 5px;
+    width: 168px;
+    height: 42px;
+    position: sticky;
+    margin: 5px;
+    bottom: 16px;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    background-color: #363c51;
+    border-radius: 4px;
+    padding: 6px 12px;
+}
+
+
+.icon-cont {
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    align-items: center;
+    height: 24px;
+    width: 24px;
+    padding: 6px 6px;
+    background-color: #4a4f62;
+}
+
+.navfoot h4 {
+    margin: 0;
+    color: #fff;
+    opacity: 0.8;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.navfoot h1 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.foot-cont {
+    margin-left: 12px;
+}

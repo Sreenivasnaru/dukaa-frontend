@@ -1,0 +1,37 @@
+.body {
+    height: 754px;
+    width: 1152px;
+    padding: 32px 32px;
+}
+
+.overview {
+    font-family: "lato";
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.overview h4 {
+    margin: 0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.overview select {
+    display: flex;
+    justify-content: center;
+    font-family: "lato";
+    color: #4c4c4c;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    /* letter-spacing: 1px; */
+    height: 36px;
+    width: 137px;
+    padding: 1px 10px;
+    border-radius: 4px;
+    border: #D9D9D9 solid 1px;
+}

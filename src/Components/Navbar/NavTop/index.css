@@ -1,0 +1,38 @@
+
+
+.navbar .nav-top img{
+    position: relative;
+    height: 39px;
+    width: 39px;
+    border-radius: 4px;
+    top: 0.5px;
+    left: 0.5px;
+}
+
+.nav-top {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 24px;
+}
+
+.nav-top h4 {
+    height: 22px;
+    width: 108px;
+    margin: 0;
+    font-weight: 400;
+    font-size: 15px;
+    font-style: normal;
+    line-height: 22px;
+}
+
+.nav-top p {
+    color: #d2d4d8;
+    font-family: "lato";
+    margin: 0;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    text-decoration: underline;
+    opacity: 0.8;
+}

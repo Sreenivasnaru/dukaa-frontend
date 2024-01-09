@@ -1,0 +1,46 @@
+.transaction-cont {
+    margin-bottom: 24px;
+}
+
+.transaction-cont h4 {
+  font-family: "lato";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  color: #1a181e;
+  margin: 0;
+  margin-bottom: 24px;
+  letter-spacing: 0.5px;
+}
+
+.payout {
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  height: 32px;
+  width: 118px;
+  padding: 6px 16px;
+  background-color: #e6e6e6;
+  color: #808080;
+  border-radius: 40px;
+  border: none;
+  margin-right: 12px;
+}
+
+.refund {
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  height: 32px;
+  width: 111px;
+  padding: 6px 16px;
+  background-color: #146eb4;
+  color: #fff;
+  border-radius: 40px;
+  border: none;
+}
